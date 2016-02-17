@@ -1,0 +1,79 @@
+.fondo{
+	background: #FFBF00; /*Cambiar colores, de acuerdo a la imagen*/
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	height: 600px;
+}
+.boton{
+	background-color: #FF8000; /*Cambiar colores, de acuerdo a la imagen*/
+	width: 120px;
+	height: 40px;
+	color: white;
+	text-align: center;
+	margin-top: 33%;
+}
+/*Revisar los margenes de mi titulo en el encabezado para centrarlos*/
+.encabezado{
+	margin-top: 200px;
+}
+h1{
+	color:white;
+	text-align: center;
+}
+h4{
+	color:white;
+	text-align: center;
+}
+li{
+	display: inline-block;
+	float: right;
+	margin: 8% -6% 5% 10%;
+	font-weight: bold; 
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+.FondoSection{
+	background: #BDBDBD; /*Cambiar colores, de acuerdo a la imagen*/
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	height: 1100px;
+}
+.FondoImagenes{
+	background: white;
+	width: 400px;
+	height: 430px;
+	margin: 100px 20px 20px 20px;
+}
+.Imagen{ 
+	width: 250px;
+	height: 250px;
+	margin: 3% 10% 2% 18.5%;
+	padding: 1px;
+}
+.TituloImagen{
+	color: #6E6E6E;
+	margin-left: 15px;
+}
+.TextoImagen{
+	color: grey;
+	text-align: justify;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 14px;
+	margin: 0px 20px 0px 20px;
+}
+.BotonLeer{
+	background-color: #FFBF00;
+	width: 90px;
+	height: 30px;
+	color: white;
+	text-align: center;
+	margin: 40px 0px 0px 150px;
+}
+.FondoPie{
+	background-color:#424242;
+	color: white;
+	height: 60px;
+}
